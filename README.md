@@ -7,7 +7,7 @@ Bonjour, je suis Hugo Andres
 Grenoble · hugand38@gmail.com 
 
 
-Premiers projets : Les modules Python 
+Premier projet : Les modules Python 
 
-Premier exercice sur l'exploration d'un fichier CSV avec les structures Python de base 
+Premier exercice sur l'exploration d'un fichier CSV avec les structures Python de base. 
 Deuième exercice où j'utilse la même base de données en utilisant cette fois-ci pandas
