@@ -1,0 +1,22 @@
+version: 2
+
+sources:
+  - name: ods
+    catalog: workspace
+    schema: ods
+    tables:
+      - name: address
+      - name: countryregion
+      - name: creditcard
+      - name: customer
+      - name: date
+      - name: person
+      - name: product
+      - name: productcategory
+      - name: productsubcategory
+      - name: salesorderdetail
+      - name: salesorderheader
+      - name: salesorderheadersalesreason
+      - name: salesreason
+      - name: stateprovince
+      - name: store
