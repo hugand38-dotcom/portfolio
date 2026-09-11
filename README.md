@@ -13,7 +13,7 @@ Premier exercice sur l'exploration d'un fichier CSV avec les structures Python d
 Deuième exercice où j'utilse la même base de données en utilisant cette fois-ci pandas.
 
 
-**Second projet : Les modules Statistiques et Probabilités **
+**Second projet : Les modules Statistiques et Probabilités**
 
 Ces deux exercices se concentrent deux outils très répandus pour les Statistiques et les probabilités que sont Gapminder et Time Series
 
