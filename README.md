@@ -19,7 +19,7 @@ Ces deux exercices se concentrent deux outils très répandus pour les Statistiq
 
 **Troisième projet : Datawarehouse AdventureWorks — Databricks + DBT + Power BI**
 
-Ce projet part de 15 fichiers CSV bruts issus de la base de données AdventureWorks Cycles (fabricant fictif de vélos), avec pour objectif de construire un pipeline de données complet — de l'ingestion brute jusqu'à un dashboard décisionnel — permettant de répondre à trois problématiques métier :
+Ce projet part de 15 fichiers CSV bruts issus de la base de données AdventureWorks Cycles (fabricant fictif de vélos), avec pour objectif de construire un pipeline de données complet, de l'ingestion brute jusqu'à un dashboard décisionnel, permettant de répondre à trois problématiques métier :
  
 1. Performance commerciale & canal : évolution du chiffre d'affaires
    dans le temps, répartition par canal de vente (client particulier vs
